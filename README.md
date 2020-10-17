@@ -12,4 +12,6 @@ This repo supports 3 styles of Tailwind styling, as well as combination of style
 
 ## VSCode Extension
 
+Add autocomplete to the `tw` macro.
+
 https://marketplace.visualstudio.com/items?itemName=DennisVash.twin-macro-autocomplete-vscode
