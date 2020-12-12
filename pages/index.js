@@ -16,7 +16,7 @@ const styles = {
   button: xw`
     bg-teal-600
     hover:bg-teal-500
-    focus[outline-none border-teal-700 ring ]
+    focus[outline-none border-teal-700 ring]
     active:bg-teal-700
     transition duration-150 ease-in-out
   `,

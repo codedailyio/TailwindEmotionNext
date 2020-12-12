@@ -410,7 +410,7 @@ body {
   box-sizing: border-box; /* 1 */
   border-width: 0; /* 2 */
   border-style: solid; /* 2 */
-  border-color: #edf2f7; /* 2 */
+  border-color: #e4e4e7; /* 2 */
 }
 
 /*
@@ -440,16 +440,16 @@ textarea {
 }
 
 input::-moz-placeholder, textarea::-moz-placeholder {
-  color: #cbd5e0;
+  color: #a1a1aa;
 }
 
 input:-ms-input-placeholder, textarea:-ms-input-placeholder {
-  color: #cbd5e0;
+  color: #a1a1aa;
 }
 
 input::placeholder,
 textarea::placeholder {
-  color: #cbd5e0;
+  color: #a1a1aa;
 }
 
 button,
